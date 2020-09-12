@@ -1,0 +1,18 @@
+.pageShowdata {
+  margin-top: 50px;
+  text-align: center;
+}
+p {
+  word-break: break-word;
+}
+.ip2 {
+  width: 300px;
+}
+.ip3 {
+  height: 150px !important;
+}
+.tables {
+  border-bottom: dashed 1px rgb(0, 0, 0);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
